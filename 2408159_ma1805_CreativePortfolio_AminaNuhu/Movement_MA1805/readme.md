@@ -1,0 +1,2 @@
+The theme of this project is the weather as it displays a rainstorm acoompanied by quick flashes of lightning. An array of raindrops moving at varied speeds helps deliver a simulation of natural rainfall, while the switches between a dark blue night frame and a plain white frame imitates flashes of lightning. 
+The p5.js examples and references site aided my creation of this project. 

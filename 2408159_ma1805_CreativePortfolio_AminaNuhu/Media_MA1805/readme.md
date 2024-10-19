@@ -1,0 +1,2 @@
+My creation of this project was a spontaneous collaboration of image and audio assets, while trying to imitate stop-motion an animation with p5 and JavaScript by implementinguser-clickable frames. I retrieved my audio assets from YouTube and created all the image pixel art assets (chatacter frames and musical notes and clef) from scratch using 'Pixilart'. 
+My idea of the quick project was to display a loop of the character in their sleep cycle, going between a sleep state and a dream state, where they are listening to music. 

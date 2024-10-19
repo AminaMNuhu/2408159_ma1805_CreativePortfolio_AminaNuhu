@@ -1,0 +1,2 @@
+This project contains a square-shaped brush tool on a blackboard canvas, which allows freeform drawing for the user. The brush contains both a mouse click event and a mouse drag event, giving the brush 2 elements of colour changing (drag for the border of the square and click for the inside of the square).
+I took inspiration from several example projects available on p5.js web editors, while adding my own aesthetic choices to the brush. 
